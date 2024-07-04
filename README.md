@@ -10,8 +10,9 @@ A simple web app to convert Israeli Shekel (ILS) to other currencies (USD, JOD, 
 - Open index.html in your web browser.
 - Enter the amount in ILS.
 - Select the target currency and click "Convert".
+
   
-##Learning Objectives
+## Learning Objectives
 This project is designed for:
 - Learning JavaScript basics
 - Using fetch API to get real-time data
